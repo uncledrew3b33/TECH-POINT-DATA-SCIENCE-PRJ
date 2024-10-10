@@ -10,7 +10,7 @@ Virtual Merchandise Purchases,
 Sponsorship Interactions (Ad Clicks),
 Time on Live 360 (mins),
 Real-Time Chat Activity (Messages Sent),
-Technologies Used
+Technologies Used.
 
 Python: The primary programming language used.
 Pandas: For data manipulation and analysis.
