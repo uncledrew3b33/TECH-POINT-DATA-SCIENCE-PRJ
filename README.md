@@ -4,12 +4,12 @@ Overview:
 This project aims to analyze user behavior by employing clustering techniques and predictive modeling. By examining various user engagement metrics, we can gain insights into how different user groups interact with the platform and predict their likelihood of making virtual merchandise purchases.
 The dataset includes various metrics related to user engagement, such as:
 
-Fan Challenges Completed
-Predictive Accuracy (%)
-Virtual Merchandise Purchases
-Sponsorship Interactions (Ad Clicks)
-Time on Live 360 (mins)
-Real-Time Chat Activity (Messages Sent)
+Fan Challenges Completed,
+Predictive Accuracy (%),
+Virtual Merchandise Purchases,
+Sponsorship Interactions (Ad Clicks),
+Time on Live 360 (mins),
+Real-Time Chat Activity (Messages Sent),
 Technologies Used
 
 Python: The primary programming language used.
