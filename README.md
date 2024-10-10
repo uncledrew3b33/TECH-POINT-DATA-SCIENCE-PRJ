@@ -18,10 +18,10 @@ NumPy: For numerical operations.
 Matplotlib and Seaborn: For data visualization.
 Scikit-Learn: For machine learning, including clustering and predictive modeling.
 
-Clustering Analysis
+Clustering Analysis:
 K-Means clustering is applied to group users based on their engagement metrics. The data is first standardized to ensure that the clustering algorithm works effectively. A scatter plot is generated to visualize the clusters, helping to identify patterns in user behavior.
 
-Predictive Modeling
+Predictive Modeling:
 A logistic regression model is developed to predict the likelihood of users making virtual merchandise purchases based on engagement metrics. The model is trained on a portion of the data and evaluated on a test set, providing insights into its accuracy.
 Insights and Visualizations
 
@@ -38,5 +38,5 @@ Copy code: pip install numpy pandas matplotlib seaborn scikit-learn
 Place your dataset in the specified path in the script.
 Run the script to perform analysis and visualize the results.
 
-Conclusion
+Conclusion:
 This analysis provides valuable insights into user behavior and engagement on the platform, guiding future strategies for enhancing user experience and increasing merchandise purchases.
