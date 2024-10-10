@@ -1,6 +1,6 @@
 User Behavior Analysis with Clustering and Predictive Modeling
 
-Overview
+Overview:
 This project aims to analyze user behavior by employing clustering techniques and predictive modeling. By examining various user engagement metrics, we can gain insights into how different user groups interact with the platform and predict their likelihood of making virtual merchandise purchases.
 The dataset includes various metrics related to user engagement, such as:
 
